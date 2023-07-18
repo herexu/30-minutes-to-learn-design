@@ -11,10 +11,7 @@
 * 苹果公司联名铁观音海报 
 ![page_hello_apple.png](./images/page_hello_apple.png)
 *对，你30分钟就做这个，会这个就可以，接下来的东西你可能会觉得很很神奇，但都很简单就可以实现，那个平面设计29分钟*
-* 根据这个海报，做个包装的设计图，纸桶圆罐的，直径156，高230，图纸宽500mm，高197mm
-![app_150x230.png](./images/apple_150x230.png)
-
-* 最后贴到3D上面展示
+* 根据这个海报，做个包装的设计图，纸桶圆罐的，直径156，高230，图纸宽500mm，高197mm,贴到3D上面展示
 ![3d_hello_apple.png](./images/3d_hello_apple.png)
 ![gltf](./images/3d_hello_apple_video.gif)
 
@@ -54,15 +51,8 @@
 8. [零基础学素描，零基础学AI绘画](./CHAPTER.08.md)
 9. [AI面前，人人平等](./CHAPTER.09.md)
 10. [提问的技巧](./CHAPTER.10.md)
+
 [结语](Finale.md)
-
-
-实践出真知
-
-知行合一
-
-大道至简
-
 
 
 
